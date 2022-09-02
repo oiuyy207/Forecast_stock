@@ -1,0 +1,2 @@
+model_checkpoint_path: "windowsize_60"
+all_model_checkpoint_paths: "windowsize_60"
